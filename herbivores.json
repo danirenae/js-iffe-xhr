@@ -1,0 +1,16 @@
+{
+  "herbivores" : [
+    {
+      "animal": "deer",
+      "type": "mammal",
+    },
+    {
+      "animal": "caterpillar",
+      "type": "insect",
+    },
+    {
+      "animal": "whatever",
+      "type": "whatever",
+    }
+  ]
+}

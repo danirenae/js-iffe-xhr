@@ -1,0 +1,19 @@
+{
+  "carnivores" : [
+    {
+      "animal": "human",
+      "type": "mammal",
+    },
+    {
+      "animal": "cheetah",
+      "type": "mammal",
+    },
+    {
+      "animal": "whatever",
+      "type": "whatever",
+    }
+  ]
+}
+
+
+
